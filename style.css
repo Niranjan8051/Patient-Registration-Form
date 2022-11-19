@@ -1,0 +1,25 @@
+input {
+  background-color: skyblue;
+  border: 1px solid black;
+}
+
+input[type="text"] {
+  width: 100%;
+}
+
+input[type="number"] {
+  width: 100%;
+}
+
+input[type="email"] {
+  width: 100%;
+}
+
+input[type="date"] {
+  width: 100%;
+}
+
+.col-sm-2,
+.col-sm-5 {
+  background-color: blue;
+}
